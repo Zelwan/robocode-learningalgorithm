@@ -1,0 +1,1 @@
+A robot built in the Robocode interface that's primary fighting algorithm is based on neural networks. Will employ either evolutionary techniques over many simulated battles on using a simple win-lose figure of merit, or use reinforcement learning that employs a more complicated function to see how the robot is performing in real time, or both.
